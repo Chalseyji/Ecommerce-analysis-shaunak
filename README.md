@@ -57,8 +57,8 @@ The Power BI dashboard provides a user-friendly, interactive experience, making 
 - Filter data by dimensions such as product category, time period, and region.
 - Understand trends and patterns intuitively through visualizations.
 
-![Dashboard Page 1](https://github.com/NIKITA320495/E-commerce-Analysis/blob/main/Dashboard/E-commerce%20dashboard1_pages-to-jpg-0001.jpg)
-![Dashboard Page 2](https://github.com/NIKITA320495/E-commerce-Analysis/blob/main/Dashboard/E-commerce%20dashboard_pages-to-jpg-0002.jpg)
+![Dashboard Page 1]([https://github.com/NIKITA320495/E-commerce-Analysis/blob/main/Dashboard/E-commerce%20dashboard1_pages-to-jpg-0001.jpg](https://github.com/Chalseyji/Ecommerce-analysis-shaunak/blob/main/Dashboard/dashboard_overview.png))
+![Dashboard Page 2]([https://github.com/NIKITA320495/E-commerce-Analysis/blob/main/Dashboard/E-commerce%20dashboard_pages-to-jpg-0002.jpg](https://github.com/Chalseyji/Ecommerce-analysis-shaunak/blob/main/Dashboard/dashboard_details.png))
 
 The Power BI report file is included in the repository.
 
